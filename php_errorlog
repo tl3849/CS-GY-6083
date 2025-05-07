@@ -1,0 +1,20 @@
+[06-Apr-2025 21:43:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'Account.PRIMARY' in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php:22
+Stack trace:
+#0 /home/customer/www/scavengerhuntproject.com/public_html/account_create.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php on line 22
+[06-Apr-2025 21:44:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'Account.PRIMARY' in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php:22
+Stack trace:
+#0 /home/customer/www/scavengerhuntproject.com/public_html/account_create.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php on line 22
+[06-Apr-2025 21:46:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'Account.PRIMARY' in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php:22
+Stack trace:
+#0 /home/customer/www/scavengerhuntproject.com/public_html/account_create.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php on line 22
+[06-Apr-2025 21:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'Account.PRIMARY' in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php:22
+Stack trace:
+#0 /home/customer/www/scavengerhuntproject.com/public_html/account_create.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/scavengerhuntproject.com/public_html/account_create.php on line 22
