@@ -26,7 +26,7 @@ require_once 'db_connect.php';
 <body>
     <h1>Account List</h1>
     <button onclick="window.location.href='account_create.php'">Create New Account</button>
-	<button onclick="window.location.href='reports_dashboard.php'">Reports Dashboard</button>
+    <button onclick="window.location.href='reports_dashboard.php'">Reports Dashboard</button>
     <table>
         <thead>
             <tr>
@@ -71,5 +71,9 @@ require_once 'db_connect.php';
         window.history.replaceState({}, document.title, 'account_list.php');
     }
     </script>
+
+    <footer style="margin-top: 20px; text-align: center;">
+        <p>View the source code on <a href="https://github.com/tl3849/CS-GY-6083" target="_blank">GitHub</a></p>
+    </footer>
 </body>
 </html>
