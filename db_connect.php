@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "ufunyaiwmv11z";
-$password = "lr0i6i0gqpkj";
-$dbname = "dbfq7hpza67qzu";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 function getConnection() {
     global $servername, $username, $password, $dbname;
